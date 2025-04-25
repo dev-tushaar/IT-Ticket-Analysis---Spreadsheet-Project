@@ -1,4 +1,2 @@
 # IT-Ticket-Analysis---Spreadsheet-Project
-Analyzed IT support ticket data using Microsoft Excel to identify trends and bottlenecks.
-Used Pivot Tables, charts, and conditional formatting to summarize ticket categories and resolution times.  
-Built a dynamic dashboard highlighting KPIs such as ticket volume, resolution time, and issue types. 
+I analyzed IT support ticket data using Microsoft Excel to identify trends and bottlenecks, leveraging Pivot Tables, charts, and conditional formatting to summarize ticket categories and resolution times. I also built a dynamic dashboard to highlight key KPIs such as ticket volume, resolution time, and issue types, providing actionable insights that helped improve IT support performance and optimize resource allocation.
